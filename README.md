@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BoyceShi
 - 👀 I’m interested in Coding, Sports, Video Games
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on Fidelity
+- 💞️ I’m looking to collaborate on Java
 - 📫 Reach me by boyce.shi@outlook.com
 
 <!---
